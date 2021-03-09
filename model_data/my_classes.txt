@@ -1,0 +1,4 @@
+quadrocopter
+plane
+boat1
+ragged
